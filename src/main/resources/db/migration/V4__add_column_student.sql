@@ -1,0 +1,1 @@
+ALTER table Student add column grade int;
